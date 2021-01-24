@@ -1,0 +1,10 @@
+C:\Users\primu\Desktop\POOII\projeto\prjveterinario\prjveterinario\bin\Debug\prjveterinario.exe
+C:\Users\primu\Desktop\POOII\projeto\prjveterinario\prjveterinario\bin\Debug\prjveterinario.pdb
+C:\Users\primu\Desktop\POOII\projeto\prjveterinario\prjveterinario\obj\Debug\prjveterinario.csprojAssemblyReference.cache
+C:\Users\primu\Desktop\POOII\projeto\prjveterinario\prjveterinario\obj\Debug\prjveterinario.frmprincipal.resources
+C:\Users\primu\Desktop\POOII\projeto\prjveterinario\prjveterinario\obj\Debug\prjveterinario.frmclientes.resources
+C:\Users\primu\Desktop\POOII\projeto\prjveterinario\prjveterinario\obj\Debug\prjveterinario.Properties.Resources.resources
+C:\Users\primu\Desktop\POOII\projeto\prjveterinario\prjveterinario\obj\Debug\prjveterinario.csproj.GenerateResource.cache
+C:\Users\primu\Desktop\POOII\projeto\prjveterinario\prjveterinario\obj\Debug\prjveterinario.csproj.CoreCompileInputs.cache
+C:\Users\primu\Desktop\POOII\projeto\prjveterinario\prjveterinario\obj\Debug\prjveterinario.exe
+C:\Users\primu\Desktop\POOII\projeto\prjveterinario\prjveterinario\obj\Debug\prjveterinario.pdb

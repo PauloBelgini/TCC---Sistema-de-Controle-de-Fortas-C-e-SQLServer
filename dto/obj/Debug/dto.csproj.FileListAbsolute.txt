@@ -1,0 +1,6 @@
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\dto\bin\Debug\dto.dll
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\dto\bin\Debug\dto.pdb
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\dto\obj\Debug\dto.csprojAssemblyReference.cache
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\dto\obj\Debug\dto.csproj.CoreCompileInputs.cache
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\dto\obj\Debug\dto.dll
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\dto\obj\Debug\dto.pdb

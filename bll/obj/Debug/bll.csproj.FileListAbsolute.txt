@@ -1,0 +1,9 @@
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\bll\bin\Debug\bll.dll
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\bll\bin\Debug\bll.pdb
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\bll\bin\Debug\dto.dll
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\bll\bin\Debug\dto.pdb
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\bll\obj\Debug\bll.csprojAssemblyReference.cache
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\bll\obj\Debug\bll.csproj.CoreCompileInputs.cache
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\bll\obj\Debug\bll.csproj.CopyComplete
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\bll\obj\Debug\bll.dll
+C:\Users\Panzer\Desktop\PIMFINAL\projetoVeterinariaV7_Veicuols\prjveterinario\bll\obj\Debug\bll.pdb
